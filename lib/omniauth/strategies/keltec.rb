@@ -18,7 +18,7 @@ module OmniAuth
           lastname: raw_info['lastname'],
           surname: raw_info['surname'],
           date_of_birth: raw_info['date_of_birth'],
-          image_url: raw_info['name']
+          image_url: raw_info['image_url']
         }
       end
 
