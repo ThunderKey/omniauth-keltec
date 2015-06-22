@@ -5,7 +5,7 @@ module OmniAuth
       option :name, :keltec
 
       option :client_options, {
-        :site => 'http://accounts.m8proj.citrin.ch',
+        :site => 'http://accounts.keltec.ch',
         #:port => 443,
         :authorize_url => '/oauth/authorize'
       }
