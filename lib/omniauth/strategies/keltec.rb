@@ -16,7 +16,7 @@ module OmniAuth
         {
           email: raw_info['email'],
           lastname: raw_info['lastname'],
-          surname: raw_info['surname'],
+          firstname: raw_info['firstname'],
           date_of_birth: raw_info['date_of_birth'],
           image_url: raw_info['image_url']
         }
