@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["nicolas@keltec.ch"]
   spec.summary       = %q{A OmniAuth strategy for Keltec-Accounts}
   spec.description   = spec.summary
-  spec.homepage      = "http://keltec.ch"
+  spec.homepage      = "https://github.com/ThunderKey/omniauth-keltec"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
