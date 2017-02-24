@@ -1,6 +1,6 @@
 # Omniauth::Keltec
 
-TODO: Write a gem description
+This is a Keltec OAuth2 Strategy for OmniAuth. This lets you use the accounts from https://accounts.keltec.ch/.
 
 ## Installation
 
@@ -18,12 +18,4 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
-
-## Contributing
-
-1. Fork it ( http://github.com/<my-github-username>/omniauth-keltec/fork )
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create new Pull Request
+A good tutorial on how you can include a OmniAuth strategy with devise: https://github.com/plataformatec/devise/wiki/OmniAuth:-Overview
